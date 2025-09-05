@@ -8,7 +8,7 @@ This repository contains a modified `ALU` module for a RISC-V based CPU design. 
 
 🧠 Motivation
 
-In today’s compute-heavy workloads, floating-point operations are crucial — especially for AI, signal processing, and graphics. This project integrates IEEE-754 floating point support directly into a RISC-V pipeline CPU to provide a more realistic and versatile design experience while strengthening RTL design skills.
+In today’s compute-heavy workloads, floating-point operations are crucial — especially for AI, signal processing, and graphics. This project added IEEE-754 floating-point support to a RISC-V pipeline CPU and strengthened my RTL design skills through hands-on system-level integration.
 
 ---
 
